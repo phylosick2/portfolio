@@ -248,7 +248,7 @@ export const projects = [
     description:
       "I have made a simple portfolio website using HTML, CSS, Javascript and React js.",
     image:
-      "",
+      "https://raw.githubusercontent.com/phylosick/Portfolio/main/public/Screenshot%202023-12-13%20222718.png",
     tags: [
       "React Js",
       "HTML",
@@ -267,7 +267,7 @@ export const projects = [
     description:
       "I have a simple Calculator using flutter which can do simple arithmatic calculations easily.",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+      "https://res.cloudinary.com/djdjzwkex/image/upload/v1702532173/dpfh66nypiigil1v9wpv.jpg",
     tags: ["Kotlin", "Flutter", "Dependencies", "Google Drive Cloud API"],
     category: "android app",
     github: "https://github.com/phylosick/calculator",
@@ -280,7 +280,7 @@ export const projects = [
     description:
       "I have made a simple BMI calculator which calculates your accurate BMI and tells your category in which you fall.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+      "https://res.cloudinary.com/djdjzwkex/image/upload/v1702532083/dv9myz3au8xhlwprhd66.jpg",
     tags: ["Flutter", "CSS", "Emulator"],
     category: "android app",
     github: "https://github.com/phylosick/bmi",
@@ -293,7 +293,7 @@ export const projects = [
     description:
       "Worked on the ECS society website and also made the Resource Hub pages,worked in team of 4.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+      "https://res.cloudinary.com/djdjzwkex/image/upload/v1702532341/ia07kplgztphes9svz2w.png",
     tags: ["React Js", "Firebase", "HTML", "CSS"],
     category: "web app",
     github: "https://github.com/pragyan4261/ecs-website2023",
