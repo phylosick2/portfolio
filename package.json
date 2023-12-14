@@ -1,7 +1,7 @@
 {
   "name": "garvit-khare-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/phylosick/Portfolio",
+  "homepage": "",
   "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
