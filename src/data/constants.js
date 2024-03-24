@@ -218,7 +218,7 @@ export const education = [
     date: "Nov 2022 - Jun 2026",
     grade: "8.30",
     desc: "I am currently pursuing a Bachelor's degree in Electronics and Communication engineering at National Institute of Technology , Silchar. I have completed 3 semesters.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    degree: "Bachelor of Technology - BTech, Electronics and Communication Engineering",
   },
   {
     id: 1,
