@@ -3,13 +3,14 @@ export const Bio = {
   roles: [
     "Web Developer",
     "Flutter Developer",
+    "Robotics Enthusiast",
     "Programmer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/phylosick",
   resume:
-    "https://drive.google.com/file/d/1T_tQeWDwkw9zRicSvSHvT-M4Hnelcys5/view?usp=drive_link",
+    "https://drive.google.com/file/d/1XlS0YUMwl8Kv0owcPP9Nba_Vfasl4-Mq/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/garvit-khare-2297a924b/?originalSubdomain=in",
   twitter: "",
   insta: "https://www.instagram.com/g.a.r.v.i.t._.09/",
@@ -216,13 +217,13 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/National_Institute_Of_Technology_Silchar_Logo.svg/1200px-National_Institute_Of_Technology_Silchar_Logo.svg.png",
     school: "National Institute of Technology Silchar",
     date: "Nov 2022 - Jun 2026",
-    grade: "8.30",
-    desc: "I am currently pursuing a Bachelor's degree in Electronics and Communication engineering at National Institute of Technology , Silchar. I have completed 3 semesters.",
+    grade: "8.56",
+    desc: "I am currently pursuing a Bachelor's degree in Electronics and Communication engineering at National Institute of Technology , Silchar. I am currently in my 4th semester.",
     degree: "Bachelor of Technology - BTech, Electronics and Communication Engineering",
   },
   {
     id: 1,
-    img: "https://newsonair.gov.in/writereaddata/News_Pictures/NAT/2022/Apr/NPIC-202241585049.jpg",
+    img: "https://res.cloudinary.com/djdjzwkex/image/upload/v1711391226/images_m3tbmj.png",
     school: "Kendriya Vidyalaya, Central University,Tezpur",
     date: "Apr 2021 - May 2022",
     grade: "97%",
@@ -231,7 +232,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://newsonair.gov.in/writereaddata/News_Pictures/NAT/2022/Apr/NPIC-202241585049.jpg",
+    img: "https://res.cloudinary.com/djdjzwkex/image/upload/v1711391226/images_m3tbmj.png",
     school: "Kendriya Vidyalaya, Central University,Tezpur",
     date: "Apr 2019 - Mar 2020",
     grade: "96.2%",
