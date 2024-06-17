@@ -217,8 +217,8 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/National_Institute_Of_Technology_Silchar_Logo.svg/1200px-National_Institute_Of_Technology_Silchar_Logo.svg.png",
     school: "National Institute of Technology Silchar",
     date: "Nov 2022 - Jun 2026",
-    grade: "8.56",
-    desc: "I am currently pursuing a Bachelor's degree in Electronics and Communication engineering at National Institute of Technology , Silchar. I am currently in my 4th semester.",
+    grade: "8.78",
+    desc: "I am currently pursuing a Bachelor's degree in Electronics and Communication engineering at National Institute of Technology , Silchar. I am currently in my 5th semester.",
     degree: "Bachelor of Technology - BTech, Electronics and Communication Engineering",
   },
   {
